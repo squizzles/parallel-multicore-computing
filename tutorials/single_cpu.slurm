@@ -1,4 +1,4 @@
-#/bin/bash /Users/rob/Documents/University/COMP90020/distributed-mutual-exclusion/run.sh
+#/bin/bash
 
 #SBATCH --job-name=singlecpu
 #SBATCH --ntasks=2
